@@ -26,7 +26,7 @@ A interação escolhida foi propositalmente simples: ao clicar na tela, o destaq
 
 ### Rascunho da interface
 
-![Rascunho da microinterface](./assets/rascunho_microinterface.png)
+![Rascunho da microinterface](./assets/imagem.jpeg)
 
 ---
 
